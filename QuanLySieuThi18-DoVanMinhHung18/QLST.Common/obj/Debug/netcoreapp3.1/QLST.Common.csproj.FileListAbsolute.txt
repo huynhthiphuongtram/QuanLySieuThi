@@ -1,0 +1,13 @@
+C:\Users\Kyoya\OneDrive\Tài liệu\MÔN HỌC\Lập trình csdl\QuanLySieuThi18-DoVanMinhHung18\QLST.Common\bin\Debug\netcoreapp3.1\QLST.Common.deps.json
+C:\Users\Kyoya\OneDrive\Tài liệu\MÔN HỌC\Lập trình csdl\QuanLySieuThi18-DoVanMinhHung18\QLST.Common\bin\Debug\netcoreapp3.1\QLST.Common.dll
+C:\Users\Kyoya\OneDrive\Tài liệu\MÔN HỌC\Lập trình csdl\QuanLySieuThi18-DoVanMinhHung18\QLST.Common\bin\Debug\netcoreapp3.1\QLST.Common.pdb
+C:\Users\Kyoya\OneDrive\Tài liệu\MÔN HỌC\Lập trình csdl\QuanLySieuThi18-DoVanMinhHung18\QLST.Common\obj\Debug\netcoreapp3.1\QLST.Common.csproj.AssemblyReference.cache
+C:\Users\Kyoya\OneDrive\Tài liệu\MÔN HỌC\Lập trình csdl\QuanLySieuThi18-DoVanMinhHung18\QLST.Common\obj\Debug\netcoreapp3.1\QLST.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kyoya\OneDrive\Tài liệu\MÔN HỌC\Lập trình csdl\QuanLySieuThi18-DoVanMinhHung18\QLST.Common\obj\Debug\netcoreapp3.1\QLST.Common.AssemblyInfoInputs.cache
+C:\Users\Kyoya\OneDrive\Tài liệu\MÔN HỌC\Lập trình csdl\QuanLySieuThi18-DoVanMinhHung18\QLST.Common\obj\Debug\netcoreapp3.1\QLST.Common.AssemblyInfo.cs
+C:\Users\Kyoya\OneDrive\Tài liệu\MÔN HỌC\Lập trình csdl\QuanLySieuThi18-DoVanMinhHung18\QLST.Common\obj\Debug\netcoreapp3.1\QLST.Common.csproj.CoreCompileInputs.cache
+C:\Users\Kyoya\OneDrive\Tài liệu\MÔN HỌC\Lập trình csdl\QuanLySieuThi18-DoVanMinhHung18\QLST.Common\obj\Debug\netcoreapp3.1\QLST.Common.dll
+C:\Users\Kyoya\OneDrive\Tài liệu\MÔN HỌC\Lập trình csdl\QuanLySieuThi18-DoVanMinhHung18\QLST.Common\obj\Debug\netcoreapp3.1\QLST.Common.pdb
+C:\Users\Kyoya\OneDrive\Tài liệu\MÔN HỌC\Lập trình csdl\QuanLySieuThi18-DoVanMinhHung18\QLST.Common\bin\Debug\netcoreapp3.1\QLST.Common.runtimeconfig.json
+C:\Users\Kyoya\OneDrive\Tài liệu\MÔN HỌC\Lập trình csdl\QuanLySieuThi18-DoVanMinhHung18\QLST.Common\bin\Debug\netcoreapp3.1\QLST.Common.runtimeconfig.dev.json
+C:\Users\Kyoya\OneDrive\Tài liệu\MÔN HỌC\Lập trình csdl\QuanLySieuThi18-DoVanMinhHung18\QLST.Common\obj\Debug\netcoreapp3.1\QLST.Common.genruntimeconfig.cache
