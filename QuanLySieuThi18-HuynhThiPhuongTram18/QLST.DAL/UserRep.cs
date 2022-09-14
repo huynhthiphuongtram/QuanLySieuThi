@@ -17,18 +17,16 @@ namespace QLST.DAL
             var res = All.FirstOrDefault(p => p.UserId == id);
             return res;
         }
-        public int Remove(int id)
-        {
-            var m = base.All.First(i => i.UserId == id);
-            m = base.Delete(m);
-            return m.UserId;
-        }
         #endregion
+
+
+
         //Tìm người dùng theo từ khóa
         public List<User> SearchUser(string KeyWord)
         {
             return All.Where(x => x.Username.Contains(KeyWord)).ToList();
         }
+
         //Thêm người dùng
         public SingleRsp CreateUser(User user)
         {
