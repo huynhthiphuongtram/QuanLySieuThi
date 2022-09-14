@@ -19,6 +19,7 @@ namespace QLST.BLL
             res.Data = m;
             return res;
         }
+
         public object SearchUser(SearchUserReq s)
         {
             //Lấy danh sách user theo từ khóa
@@ -41,6 +42,7 @@ namespace QLST.BLL
             };
             return res;
         }
+
         public SingleRsp CreateUser(UserReq userReq)
         {
             var res = new SingleRsp();
